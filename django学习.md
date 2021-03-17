@@ -1059,7 +1059,7 @@ cookie签名（可以自定义）：``obj.set_signed_cookie('ticket','123123', s
 - process_exception(self, request, exception)
 - process_response(self, request, response)
 
-<img src="image/image-20210215161118494.png" alt="image-20210215161118494" style="zoom:50%; margin-right=0" />
+<img src="image/image-20210215161118494.png" alt="image-20210215161118494" style="zoom:50%" />
 
 #### 自定义中间件
 
